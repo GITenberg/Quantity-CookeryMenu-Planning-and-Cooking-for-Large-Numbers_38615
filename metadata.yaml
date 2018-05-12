@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '39577'
     url: http://www.gutenberg.org/2009/agents/39577
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38615#Quantity-CookeryMenu-Planning-and-Cooking-for-Large-Numbers
 gutenberg_issued: '2012-01-18'
 gutenberg_type: Text
 identifiers:
